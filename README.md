@@ -1,0 +1,1 @@
+A caesar cipher built with Ruby. It includes a string and the shift factor.
